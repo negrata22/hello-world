@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://media.istockphoto.com/vectors/halftone-pattern-abstract-background-for-template-brochure-flyer-vector-id1138306984?k=6&m=1138306984&s=612x612&w=0&h=BQ45Tl3b62HweCIwQWjt_tjh7vYNiUo88fmiLxqLkhk=);
+}
+h1{
+    color: chocolate;
+}
+#thirdDiv{
+    padding: 50px;
+    width: 500px;
+    height: 600px;
+    background-color: darkblue;
+    border: black solid 2px;
+}
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+}
+img{
+    width: 400px;
+}
