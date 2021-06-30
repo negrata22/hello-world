@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+}
+#infoContainer{
+    padding: 100px;
+    width: 600px;
+    height: 600px;
+}
+h1{
+    color: bisque;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    font-size: 18px;
+    text-align: center;
+}
+.imagen{
+    width: 400px;
+    height: 400px;
+}
